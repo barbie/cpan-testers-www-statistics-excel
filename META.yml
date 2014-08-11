@@ -1,5 +1,5 @@
 --- #YAML:1.0
-name:                CPAN::Testers::WWW::Statistics::Excel
+name:                CPAN-Testers-WWW-Statistics-Excel
 version:             0.04
 abstract:            Scripts to create the Excel files for the cpanstats website
 author:
